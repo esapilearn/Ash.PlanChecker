@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ash.PlanChecker", "Ash.PlanChecker.csproj", "{88174B45-A317-4D93-8C45-F46B4C98B425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88174B45-A317-4D93-8C45-F46B4C98B425}.Debug|x64.ActiveCfg = Debug|x64
+		{88174B45-A317-4D93-8C45-F46B4C98B425}.Debug|x64.Build.0 = Debug|x64
+		{88174B45-A317-4D93-8C45-F46B4C98B425}.Release|x64.ActiveCfg = Release|x64
+		{88174B45-A317-4D93-8C45-F46B4C98B425}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C13C00CC-A8A1-4666-B8A5-E6A04F0886BE}
+	EndGlobalSection
+EndGlobal
